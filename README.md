@@ -12,10 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:computer: Programming Languages:
+- :star_struck:	Interested in / Lifelong Learner of:
+Red Teaming, Malware Development, Malware Analysis, Reverse Engineering, Threat Intelligence (But not yet an expert at any of them )
+
+- :computer: Programming Languages:
 ![python](https://img.shields.io/badge/-Python-blue)
 ![powershell](https://img.shields.io/badge/-Powershell-purple)
 ![nim](https://img.shields.io/badge/-Nim-yellow)
 ![c++](https://img.shields.io/badge/-C++-grey)
 
-📫 How to reach me: [Gmail](itaymigdal9@gmail.com) | [Linkedin](https://www.linkedin.com/in/itay-migdal-b91821116/) | [Twitter](https://twitter.com/0xTheBruter)
+- 📫 How to reach me:
+[Gmail](itaymigdal9@gmail.com) | [Linkedin](https://www.linkedin.com/in/itay-migdal-b91821116/) | [Twitter](https://twitter.com/0xTheBruter)
