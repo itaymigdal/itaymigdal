@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :star_struck:	Interested in / Lifelong Learner of:
-Red Teaming, Malware Development, Malware Analysis, Reverse Engineering, Threat Intelligence (But not yet an expert at any of them )
-
+- :star_struck:	Interested in:
+![Red Teaming](https://img.shields.io/badge/-Red_Teaming-red)
+![Malware Development](https://img.shields.io/badge/-Malware_Development-blueviolet)
+![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-9cf)
+![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-yellowgreen)
+![Threat Intelligence](https://img.shields.io/badge/-Threat_Intelligence-lightgrey)
 - :computer: Programming Languages:
 ![python](https://img.shields.io/badge/-Python-blue)
 ![powershell](https://img.shields.io/badge/-Powershell-purple)
