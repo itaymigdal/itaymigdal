@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Itay Migdal, Cyber Security Researcher / Developer / Geek 👋
 
 <!--
-**itaymigdal/itaymigdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:computer: Programming Languages:
+![python](https://img.shields.io/badge/-Python-blue)
+![powershell](https://img.shields.io/badge/-Powershell-purple)
+![nim](https://img.shields.io/badge/-Nim-yellow)
+![c++](https://img.shields.io/badge/-C++-grey)
+
+📫 How to reach me: [Gmail](itaymigdal9@gmail.com) | [Linkedin](https://www.linkedin.com/in/itay-migdal-b91821116/) | [Twitter](https://twitter.com/0xTheBruter)
