@@ -14,6 +14,6 @@
 ![c++](https://img.shields.io/badge/-C++-grey)
 
 - 📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/-Gmail-f00)](itaymigdal9@gmail.com) 
+[![Gmail](https://img.shields.io/badge/-Gmail-f44)](itaymigdal9@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-02f)](https://www.linkedin.com/in/itay-migdal-b91821116/)
 [![Twitter](https://img.shields.io/badge/-Twitter-07f)](https://twitter.com/0xTheBruter)
