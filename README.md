@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Red Teaming](https://img.shields.io/badge/-Red_Teaming-red)
 ![Malware Development](https://img.shields.io/badge/-Malware_Development-blueviolet)
 ![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-9cf)
-![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-yellowgreen)
+![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-af4)
 ![Threat Intelligence](https://img.shields.io/badge/-Threat_Intelligence-lightgrey)
 - :computer: Programming Languages:
 ![python](https://img.shields.io/badge/-Python-blue)
