@@ -7,7 +7,7 @@
 ![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-af4)
 ![Threat Intelligence](https://img.shields.io/badge/-Threat_Intelligence-lightgrey)
 
-- :computer: Programming Languages:
+- :computer: Programming languages:
 ![python](https://img.shields.io/badge/-Python-blue)
 ![powershell](https://img.shields.io/badge/-Powershell-purple)
 ![nim](https://img.shields.io/badge/-Nim-yellow)
