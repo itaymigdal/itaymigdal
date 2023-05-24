@@ -11,7 +11,7 @@
 ![python](https://img.shields.io/badge/-Python-blue)
 ![powershell](https://img.shields.io/badge/-Powershell-purple)
 ![nim](https://img.shields.io/badge/-Nim-yellow)
-![c++](https://img.shields.io/badge/-C++-grey)
+![c](https://img.shields.io/badge/-C-grey)
 
 - 📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/-Gmail-f44)](itaymigdal9@gmail.com) 
