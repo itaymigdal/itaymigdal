@@ -35,5 +35,7 @@
 - [RegStrike](https://github.com/itaymigdal/RegStrike) - RegStrike is a .reg payload generator
 - [HubbleHub](https://github.com/itaymigdal/HubbleHub) - Explore and filter your GitHub starred repositories
 - [Some-Scripts](https://github.com/itaymigdal/some-scripts) - Some Cyber Security related scripts
+- [Useful-COM-WMI](https://github.com/itaymigdal/Useful-COM-WMI) - Some Nim and Powershell snippets for (ab)using COM and WMI for various useful purposes
+  
 
 
